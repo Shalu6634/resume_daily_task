@@ -1,5 +1,105 @@
 # resume_daily_task
 
+ # what is List ?
+ 
+- List data type is similar to arrays in other programming languages. 
+- List is collection of multiple value of all data type.
+- List is denoted by '[]'.
+
+## List declaration :-
+
+**Syntax:-** List variableName = [Values];
+
+## Example : -
+
+```javascript
+import 'dart:io';
+
+void main()
+{
+  List l1 =['s','a',1,2];
+
+  print(l1[2]);
+
+}
+```
+## Find length of list :
+
+```javascript
+import 'dart:io';
+
+void main()
+{
+  List l1 =['s','a',1,2];
+
+  print(l1.length);
+
+}
+```
+## Add value of list 
+
+ ```javascript
+import 'dart:io';
+
+void main()
+{
+  List l1 =['s','a',1,2];
+
+  print(l1.add(12));
+
+}
+```
+## Add multiple value
+```javascript
+import 'dart:io';
+
+void main() {
+
+  List l1 = [1, 2, 'A', 'S'];
+
+  l1.addAll([1, 2, 3]);
+
+  print(l1);
+
+}
+
+```
+## Remove value in list
+
+```javascript
+import 'dart:io';
+
+void main() 
+{
+  List l1 = [1, 3, 'a', 'b'];
+
+  l1.remove(1);
+
+  print(l1);
+  
+}
+```
+## Remove value at Index
+
+```javascript
+import 'dart:io';
+
+void main() 
+{
+  List l1 = [1, 3, 'a', 'b'];
+
+  l1.removeAt(1);
+
+  print(l1);
+  
+}
+```
+
+
+
+
+
+
 ## StatusBar
 
 ```javascript
