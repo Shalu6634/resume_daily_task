@@ -181,6 +181,81 @@ void main()
 }
 
 ```
+###  User Info
+
+```dart
+import 'dart:io';
+
+void main() {
+  String? name, addr, comp, city, email;
+  int? id, age, salary;
+  double? phone_num, per;
+
+  Map m1 = {
+    'name': name,
+    'Id': id,
+    'age': age,
+    'address': addr,
+    'company_name': comp,
+    'salary': salary,
+    'phone_num': phone_num,
+    'per': per,
+    'city': city,
+    'email': email,
+  };
+
+  stdout.write('Enter your name:');
+  name = stdin.readLineSync()!;
+  m1.addAll({'name': name});
+
+  stdout.write('Enter your id:');
+  id = int.parse(stdin.readLineSync()!);
+  m1.addAll({'Id': id});
+
+  stdout.write('Enter your age:');
+  age = int.parse(stdin.readLineSync()!);
+  m1.addAll({'age': age});
+
+  stdout.write('Enter your salary:');
+  salary = int.parse(stdin.readLineSync()!);
+  m1.addAll({'salary': salary});
+
+  stdout.write('Enter your percentage:');
+  per = double.parse(stdin.readLineSync()!);
+  m1.addAll({'per': per});
+
+  stdout.write('Enter your address:');
+  addr = stdin.readLineSync()!;
+  m1.addAll({'address': addr});
+
+  stdout.write('Enter your comp_name:');
+  comp = stdin.readLineSync()!;
+  m1.addAll({'company_name': comp});
+
+  stdout.write('Enter your phone_name:');
+  phone_num = double.parse(stdin.readLineSync()!);
+  m1.addAll({'phone_num': phone_num});
+
+  stdout.write('Enter your email_id:');
+  email = stdin.readLineSync()!;
+  m1.addAll({'email': email});
+
+  stdout.write('Enter your city:');
+  city = stdin.readLineSync()!;
+  m1.addAll({'city': city});
+
+
+
+  print('\n\n');
+
+  m1.forEach((key, value) {
+    print('${key}:${value}');
+  });
+}
+
+
+```
+
 
 
 ## StatusBar
