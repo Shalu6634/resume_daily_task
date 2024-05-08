@@ -10,9 +10,9 @@
 
 **Syntax:-** List variableName = [Values];
 
-## Example : -
+###  Example : -
 
-```javascript
+```dart
 import 'dart:io';
 
 void main()
@@ -23,9 +23,9 @@ void main()
 
 }
 ```
-## Find length of list :
+###  Find length of list :
 
-```javascript
+```dart
 import 'dart:io';
 
 void main()
@@ -36,9 +36,9 @@ void main()
 
 }
 ```
-## Add value of list 
+###  Add value of list 
 
- ```javascript
+ ```dart
 import 'dart:io';
 
 void main()
@@ -49,8 +49,8 @@ void main()
 
 }
 ```
-## Add multiple value
-```javascript
+### Add multiple value
+```dart
 import 'dart:io';
 
 void main() {
@@ -64,9 +64,9 @@ void main() {
 }
 
 ```
-## Remove value in list
+###  Remove value in list
 
-```javascript
+```dart
 import 'dart:io';
 
 void main() 
@@ -79,9 +79,9 @@ void main()
   
 }
 ```
-## Remove value at Index
+###  Remove value at Index
 
-```javascript
+```dart
 import 'dart:io';
 
 void main() 
@@ -94,7 +94,93 @@ void main()
   
 }
 ```
+### Insert value:
 
+```dart
+
+ void main() 
+ {
+    List l1 = ['s','c',1,3,7];
+
+
+    l1.insert(0, 'flutter');
+   
+    print(l1);
+ }
+```
+### InsertAll value:
+
+```dart
+
+ void main()
+{
+  List l1 =[1,23,4];
+
+  l1.insertAll(1, [2,4,5]);
+
+
+  print(l1);
+
+}        
+```
+
+###  Generics :
+
+```dart
+import 'dart:io';
+
+  void main() 
+  {
+    List <int> l1 = [];
+    
+
+    print("Enter number  : ");
+    int  n = int.parse(stdin.readLineSync()!);
+ 
+    for(int i=0; i<n; i++)
+    {
+      l1.add(n);
+    }
+    print(l1);
+  }
+    
+```
+
+
+## Map 
+
+- Map is collection of multiple List.
+- Map is an object that stores data in the form of a key-value pair. 
+- Both keys and values can be any type.
+
+
+### InsertAll value:
+
+```dart
+import 'dart:io';
+
+void main()
+{
+
+
+   Map  m1 ={
+     'key':'value',
+     'key1':'value1',
+     'key2':'value2',
+   };
+
+   print(m1);
+   
+   print("\n");
+    
+   m1.forEach((key, val) 
+   {
+      print("${key} : ${val}");
+    });
+
+}
+
+```
 
 
 
@@ -102,7 +188,7 @@ void main()
 
 ## StatusBar
 
-```javascript
+```dart
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
@@ -122,7 +208,7 @@ class MyApp extends StatelessWidget {
 
 ## StatusBar
 
-```javascript
+```dart
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
@@ -152,7 +238,7 @@ class _HomePageState extends State<HomePage> {
 
 ## StatusBar
 
-```javascript
+```dart
 
 import 'package:flutter/material.dart';
 import 'package:resume_daily_task/screens/home/homepage.dart';
