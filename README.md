@@ -183,9 +183,6 @@ void main()
 ```
 
 
-
-
-
 ## StatusBar
 
 ```dart
