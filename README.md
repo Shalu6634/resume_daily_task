@@ -192,16 +192,7 @@ void main() {
   double? phone_num, per;
 
   Map m1 = {
-    'name': name,
-    'Id': id,
-    'age': age,
-    'address': addr,
-    'company_name': comp,
-    'salary': salary,
-    'phone_num': phone_num,
-    'per': per,
-    'city': city,
-    'email': email,
+
   };
 
   stdout.write('Enter your name:');
@@ -232,7 +223,7 @@ void main() {
   comp = stdin.readLineSync()!;
   m1.addAll({'company_name': comp});
 
-  stdout.write('Enter your phone_name:');
+  stdout.write('Enter your phone_num:');
   phone_num = double.parse(stdin.readLineSync()!);
   m1.addAll({'phone_num': phone_num});
 
@@ -240,7 +231,7 @@ void main() {
   email = stdin.readLineSync()!;
   m1.addAll({'email': email});
 
-  stdout.write('Enter your city:');
+  stdout.write('Enter your city_name:');
   city = stdin.readLineSync()!;
   m1.addAll({'city': city});
 
