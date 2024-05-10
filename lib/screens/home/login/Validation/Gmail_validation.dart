@@ -68,9 +68,18 @@ class _GmailValidationState extends State<GmailValidation> {
                               email=value;
                             },
                             validator: (value) {
+                          
                               if (value!.isEmpty) {
                                 return 'field is must be required';
                               }
+                              else if(!value.contains('@')){
+                                return 'Enter @gmail.com';
+                              }
+                              else if(value.toString()=='@gmail.com'){
+                                return 'xyz@gmail.com';
+                              }
+                              return null;
+
 
                             },
                             controller: txtEmail,
@@ -78,9 +87,9 @@ class _GmailValidationState extends State<GmailValidation> {
                             decoration: InputDecoration(
                               labelText: 'Email or phone',
                               hintText: 'abcd@gamil.com',
-                              // labelStyle: TextStyle(
-                              //   color: Color(0xff2b2b2b),
-                              // ),
+                              labelStyle: TextStyle(
+                                color: Color(0xff2b2b2b),
+                              ),
                               enabledBorder: OutlineInputBorder(
                                 borderRadius: BorderRadius.circular(10),
                                 borderSide:
