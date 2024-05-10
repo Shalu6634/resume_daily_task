@@ -67,12 +67,12 @@ class _PasswordPageState extends State<PasswordPage> {
                                 pass =value;
                               },
                               validator: (value) {
-                                if (value!.isEmpty) {
-                                  return 'field is must be required';
+                                 if (value!.isEmpty) {
+                                  return 'enter your password';
                                 }
-                                else if(value!.characters == '2')
+                                else if(value.length<=8)
                                 {
-                                  return 'enter ';
+                                    return 'password is must be grater  then 8';
                                 }
 
                               },
