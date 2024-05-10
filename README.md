@@ -1,15 +1,4 @@
 # resume_daily_task
-## Drawer page
-<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/f900d523-81a1-4a55-b7f9-9fe3017465c9" width = 20%  heigth = 25%>
-
-## first Page
-
-<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/799a7ff8-e0ed-4188-b565-9c3ce6027762" width = 20% height = 25%>
-
-## login Page
-
-<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/d3eb6f88-bb90-4ea6-a12b-4f502cb1066d" width = 20% height = 25%>
-
 
  # what is List ?
  
@@ -322,4 +311,34 @@ class AppRoutes
   };
 }
 ```
+
+
+
+## Drawer page
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/f900d523-81a1-4a55-b7f9-9fe3017465c9" width = 20%  heigth = 25%>
+
+## first Page
+
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/799a7ff8-e0ed-4188-b565-9c3ce6027762" width = 20% height = 25%>
+
+## login Page
+
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/d3eb6f88-bb90-4ea6-a12b-4f502cb1066d" width = 20% height = 25%>
+
+
+
+## Gmail
+
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/af6b7f2a-5d6f-4b29-9204-949b79bed218" width = 40% height = 40%>
+
+
+## Password
+
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/236c43a9-138b-48ae-9105-5b4807862fe2" width = 40%  height = 40%>
+
+
+## validation complete
+
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/cabace5e-366b-4097-ad0e-9cfb73c73110" width = 40%  height = 40%>
+
 
