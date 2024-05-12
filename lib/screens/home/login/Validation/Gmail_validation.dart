@@ -72,12 +72,21 @@ class _GmailValidationState extends State<GmailValidation> {
                               if (value!.isEmpty) {
                                 return 'field is must be required';
                               }
-                              else if(!value.contains('@')){
+                              else if(!value.contains('@gmail.com')){
                                 return 'Enter @gmail.com';
                               }
-                              else if(value.toString()=='@gmail.com'){
-                                return 'xyz@gmail.com';
+                              else if(value.contains(' '))
+                                {
+                                  return 'Space not allow';
+                                }
+                              else if(value.contains(' '))
+                              {
+                                return 'Space not allow';
                               }
+                              else if(value.length<=10)
+                                {
+                                  return 'Enter email length 10';
+                                }
                               return null;
 
 
