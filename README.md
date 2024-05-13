@@ -315,7 +315,7 @@ class AppRoutes
 
 
 ## Drawer page
-<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/f900d523-81a1-4a55-b7f9-9fe3017465c9" width = 20%  heigth = 25%>
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/6b89be58-2eb2-49a7-bf1c-cd2d262d0e7a" width = 20%  heigth = 25%>
 
 ## first Page
 
