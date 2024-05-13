@@ -74,7 +74,10 @@ class _PasswordPageState extends State<PasswordPage> {
                                 {
                                     return 'password is must be grater  then 8';
                                 }
-
+                                else if(value.contains('  '))
+                                  {
+                                    return 'Space not allow';
+                                  }
                               },
                               controller: txtPassword,
                               keyboardType: TextInputType.text,
