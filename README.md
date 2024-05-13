@@ -321,6 +321,7 @@ class AppRoutes
 
 <img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/799a7ff8-e0ed-4188-b565-9c3ce6027762" width = 20% height = 25%>
 
+
 ## login Page
 
 <img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/d3eb6f88-bb90-4ea6-a12b-4f502cb1066d" width = 20% height = 25%>
@@ -330,7 +331,9 @@ class AppRoutes
 ## Gmail
 
 <img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/af6b7f2a-5d6f-4b29-9204-949b79bed218" width = 40% height = 40%>
-
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/5f23d15c-b95f-49da-abb0-e4e5f1a2cbf8"  width = 40% height = 40%>
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/02fd6432-1aac-4a60-ab81-c50a2c117251" width = 40%  height = 40%>
+<img src = "https://github.com/Shalu6634/resume_daily_task/assets/149373622/81bf3597-4aa8-4c42-bfa5-72c6ebbdd67d" width = 40%  height = 40%>
 
 ## Password
 
