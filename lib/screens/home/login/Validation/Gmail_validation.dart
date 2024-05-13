@@ -79,9 +79,9 @@ class _GmailValidationState extends State<GmailValidation> {
                                 {
                                   return 'Space not allow';
                                 }
-                              else if(value.contains(' '))
+                              else if(value!=value.toLowerCase())
                               {
-                                return 'Space not allow';
+                                return 'enter only lowercase letter';
                               }
                               else if(value.length<=10)
                                 {
