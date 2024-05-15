@@ -1,9 +1,8 @@
 
-
 import 'package:flutter/material.dart';
 
-String email = 'not';
-String pass='not';
+String email = 'Enter email';
+String pass='Enter password';
 
 
 bool checkCapitalCase = false;
@@ -12,7 +11,14 @@ bool checkLowerCase = false;
 int checkCharacter=0;
 bool checkDigit =false;
 
+
+bool specialChar = false;
+
+
+
 int index=0;
+
+
 
  List icon =[
 
