@@ -339,9 +339,19 @@ class AppRoutes
 
 <img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/236c43a9-138b-48ae-9105-5b4807862fe2" width = 40%  height = 40%>
 
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/89a7a5bc-7252-4eeb-ab1f-1f8b421cf2b2" width = 40%  height = 40%>
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/d8308168-6be4-428f-b6c6-09abfe5ce45a" width = 40%  height = 40%>
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/4d5641dd-1212-44b3-b4e5-6710fa61f42e" width = 40%  height = 40%>
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/a4984ecd-34a4-46b0-910f-fbb28beddb2a" width = 40%  height = 40%>
+
 
 ## validation complete
 
-<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/cabace5e-366b-4097-ad0e-9cfb73c73110" width = 40%  height = 40%>
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/51ba10f0-714b-4760-a313-44642977852f" width = 40%  height = 40%>
+
+## SnakBar
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/acae5c53-bcc7-4d5b-8d31-9f4b0671410c" width = 40%  height = 40%>
+
+
 
 
