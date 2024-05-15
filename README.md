@@ -350,7 +350,12 @@ class AppRoutes
 <img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/51ba10f0-714b-4760-a313-44642977852f" width = 40%  height = 40%>
 
 ## SnakBar
-<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/acae5c53-bcc7-4d5b-8d31-9f4b0671410c" width = 40%  height = 40%>
+<img src ="https://github.com/Shalu6634/resume_daily_task/assets/149373622/123098ee-d0d9-4144-af2d-42386352aae6" width = 40%  height = 40%>
+
+
+
+https://github.com/Shalu6634/resume_daily_task/assets/149373622/7c3d7a47-e2a3-4094-9591-102a90d50065
+
 
 
 
