@@ -360,3 +360,8 @@ https://github.com/Shalu6634/resume_daily_task/assets/149373622/7c3d7a47-e2a3-40
 
 
 
+
+![img3](https://github.com/Shalu6634/resume_daily_task/assets/149373622/d294a4ff-d75f-4e8a-ae95-b39b2a42fde4)
+![image1](https://github.com/Shalu6634/resume_daily_task/assets/149373622/89cf6661-9440-4633-83d1-68f20a533249)
+![image](https://github.com/Shalu6634/resume_daily_task/assets/149373622/00a5f1df-a232-48a0-b27a-0be69660d67a)
+
